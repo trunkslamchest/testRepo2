@@ -1,3 +1,6 @@
 function testFile () {
-  return "testFile"
+  console.log('test')
+  return 'test'
 }
+
+testFile()
